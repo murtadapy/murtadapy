@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Murtada-Altarouti/Murtada-Altarouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murtada-Altarouti)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Here are some ideas to get you started:
+```python
+class SoftwareEngineer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def __init__(self):
+      self.name = "Murtada Altarouti"
+      self.role = "Software Engineer"
+      self.langauges = ["English", "Arabic"]
+  
+  def __str__(self):
+      return "Hi, my name is {}".format(self.name)
+
+if __name__ == "__main__":
+    me = SoftwareEngineer()
+    print(me)
+```
+
+# Skills ✨
+...
