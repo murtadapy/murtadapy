@@ -4,18 +4,18 @@
 
 
 ```python
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
   def __init__(self):
       self.name = "Murtada Altarouti"
-      self.role = "Software Engineer"
+      self.role = "Software Developer"
       self.langauges = ["English", "Arabic"]
   
   def __str__(self):
       return "Hi, my name is {}".format(self.name)
 
 if __name__ == "__main__":
-    me = SoftwareEngineer()
+    me = SoftwareDeveloper()
     print(me)
 ```
 
