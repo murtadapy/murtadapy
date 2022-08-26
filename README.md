@@ -5,7 +5,6 @@
 
 ```python
 class SoftwareDeveloper:
-
   def __init__(self):
       self.name = "Murtada Altarouti"
       self.role = "Software Developer"
