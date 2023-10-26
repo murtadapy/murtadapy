@@ -4,12 +4,12 @@
 
 ```python
 class SoftwareDeveloper:
-  def __init__(self):
+  def __init__(self) -> None:
       self.name = "Murtada Altarouti"
       self.role = "Software Developer"
       self.langauges = ["English", "Arabic"]
   
-  def __str__(self):
+  def __str__(self) -> None:
       return "Hi, my name is {}".format(self.name)
 
 if __name__ == "__main__":
