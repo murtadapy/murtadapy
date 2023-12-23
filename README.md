@@ -18,8 +18,7 @@ if __name__ == "__main__":
 ```
 ###
 
-<img src="https://streak-stats.demolab.com?user=maltarouti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=maltarouti&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=400&type=png)](https://git.io/streak-stats)
 ###
 
 <h1 align="left">✨ Technologies & Tools</h1>
