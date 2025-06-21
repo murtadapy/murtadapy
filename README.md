@@ -1,44 +1,26 @@
-<h1 align="left">Hello there 👋</h1>
-
-###
+<h1 align="left">Hello There 👋</h1>
 
 ```python
-class SoftwareDeveloper:
+class SoftwareEngineer:
   def __init__(self) -> None:
       self.name = "Murtada Altarouti"
-      self.role = "Software Developer"
+      self.role = "Senior Software Engineer"
       self.langauges = ["English", "Arabic"]
   
   def __str__(self) -> None:
       return "Hi, my name is {}".format(self.name)
 
 if __name__ == "__main__":
-    me = SoftwareDeveloper()
+    me = SoftwareEngineer()
     print(me)
 ```
-###
 
-<h1 align="left">✨ Technologies & Tools</h1>
-
-###
+<h1 align="left">✨ Top Technologies</h1>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
-###
-
-<h1 align="left">🌍 Social Media</h1>
-
-###
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Nurtada-Altarouti/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/murtadapy/)
-
-###
